@@ -1,0 +1,1266 @@
+Place, Latitude, Longitude, Country, Continent, Magnitude
+Bamako,12.6354,-8.0023, Mali, Africa,4.7
+Niamey,13.513,2.1151, Niger, Africa,5.7
+Southern Chile,-39.8234,-73.0691, Chile, South America,4.9
+Freetown,8.4815,-13.2315, Sierra Leone, Africa,4.8
+Bamako,12.6422,-7.999, Mali, Africa,5.3
+Fort-de-France,14.6132,-61.06, Martinique, North America,5.7
+Santiago,-33.4463,-70.6682, Chile, South America,4.8
+East African Rift,-1.2921,36.8219, Kenya, Africa,4.6
+Manila,13.4165,122.5589, Philippines, Asia,5.1
+San Salvador,13.6943,-89.2216, El Salvador, North America,5.7
+Freetown,8.4839,-13.2328, Sierra Leone, Africa,4.8
+Georgetown,6.7991,-58.154, Guyana, South America,4.9
+Yamoussoukro,6.82,-5.2758, Côte d'Ivoire, Africa,4.7
+Bujumbura,-3.3923,29.3604, Burundi, Africa,5.2
+Kyushu,33.5882,130.4006, Japan, Asia,4.9
+Conakry,9.5061,-13.7126, Guinea, Africa,4.7
+Tonga Trench,-23.12,-172.08, Tonga, Oceania,4.8
+Bucharest,44.4236,26.103, Romania, Europe,4.8
+Bridgetown,13.1108,-59.6006, Barbados, North America,4.7
+Ouagadougou,12.3718,-1.522, Burkina Faso, Africa,5.7
+Yuzhno-Sakhalinsk,46.9624,142.7352, Russia, Asia,5.3
+East African Rift,-1.2897,36.8237, Kenya, Africa,4.8
+Kuril Islands,45.5563,148.8878, Russia, Asia,5.6
+Dakar,14.6898,-17.4448, Senegal, Africa,4.8
+Port of Spain,10.6573,-61.518, Trinidad and Tobago, North America,5.7
+Freetown,8.4855,-13.2364, Sierra Leone, Africa,5.6
+Victoria,-4.6205,55.4552, Seychelles, Africa,5.3
+Niamey,13.5112,2.1113, Niger, Africa,4.8
+Bamako,12.642,-7.9988, Mali, Africa,5.3
+Monrovia,6.3082,-10.8033, Liberia, Africa,4.7
+Ouagadougou,12.3732,-1.5145, Burkina Faso, Africa,5.3
+Southern Chile,-39.8232,-73.072, Chile, South America,4.8
+Montevideo,-34.9043,-56.1835, Uruguay, South America,5.3
+Yuzhno-Sakhalinsk,46.957,142.7378, Russia, Asia,4.8
+Honiara,-9.4371,160.0393, Solomon Islands, Oceania,4.8
+Ashgabat,37.987,58.3297, Turkmenistan, Asia,5.0
+Maputo,-25.8894,32.604, Mozambique, Africa,4.8
+Moroni,-11.7148,43.2493, Comoros, Africa,4.8
+Tonga Trench,-23.1232,-172.0763, Tonga, Oceania,5.3
+Monrovia,6.3078,-10.7999, Liberia, Africa,4.8
+Kingston,17.9714,-76.7926, Jamaica, North America,4.8
+Mawson Station,-67.6162,62.8727, Antarctica, Antarctica,4.8
+Ljubljana,46.0602,14.5021, Slovenia, Europe,5.1
+San Jose,37.7763,-122.4228, United States, North America,5.6
+Yuzhno-Sakhalinsk,46.9568,142.7407, Russia, Asia,4.7
+Islamabad,33.6889,73.0441, Pakistan, Asia,5.6
+Abidjan,5.3625,-4.0043, Côte d'Ivoire, Africa,5.3
+Managua,12.1181,-86.2325, Nicaragua, North America,5.2
+Conakry,9.5071,-13.7106, Guinea, Africa,4.8
+La Paz,-16.5014,-68.1534, Bolivia, South America,5.7
+Bissau,11.8634,-15.5822, Guinea-Bissau, Africa,4.8
+Bogota,4.7123,-74.0697, Colombia, South America,4.7
+Vladivostok,43.1766,132.0081, Russia, Asia,5.2
+Yamoussoukro,6.8182,-5.2751, Côte d'Ivoire, Africa,4.8
+Banjul,13.4532,-16.5895, Gambia, Africa,5.7
+Bissau,11.8624,-15.5832, Guinea-Bissau, Africa,4.8
+Thessaloniki,40.6377,22.9463, Greece, Europe,4.2
+Conakry,9.5091,-13.7115, Guinea, Africa,4.8
+Kathmandu,27.7158,85.3282, Nepal, Asia,4.7
+Sofia,42.7009,23.3182, Bulgaria, Europe,5.2
+Casey Station,-66.2829,110.5249, Antarctica, Antarctica,4.9
+North Anatolian Fault Zone,40.9919,34.9868, Turkey, Europe,4.9
+Santo Domingo,18.4861,-69.9312, Dominican Republic, North America,4.7
+Vienna,48.8598,16.353, Austria, Europe,5.3
+Georgetown,6.8061,-58.1587, Guyana, South America,5.6
+Hilo,19.7053,-155.0853, United States, North America,4.9
+Taipei,25.0344,121.5678, Taiwan, Asia,5.5
+Bucharest,44.4254,26.105, Romania, Europe,4.5
+Gustavia,17.8979,-62.8532, Saint Barthelemy, North America,5.8
+Yamoussoukro,6.8172,-5.2741, Côte d'Ivoire, Africa,4.8
+Kuril Islands,45.5581,148.8807, Russia, Asia,5.3
+Dar es Salaam,-6.7899,39.2101, Tanzania, Africa,4.7
+Lhasa,29.6503,91.1794, Tibet, Asia,5.4
+Bujumbura,-3.3867,29.3659, Burundi, Africa,4.7
+Mogadishu,2.0403,45.3398, Somalia, Africa,5.2
+San Salvador,13.6961,-89.2145, El Salvador, North America,5.3
+Ouagadougou,12.3738,-1.5151, Burkina Faso, Africa,5.3
+Faraday Station,-65.2567,-63.5004, Antarctica, Antarctica,4.9
+Christchurch,-43.5339,172.6465, New Zealand, Oceania,5.5
+Tirana,41.3253,19.8176, Albania, Europe,4.6
+Abidjan,5.3613,-4.0122, Côte d'Ivoire, Africa,5.8
+Niamey,13.5124,2.1125, Niger, Africa,4.8
+Sarajevo,43.8595,18.4094, Bosnia and Herzegovina, Europe,4.8
+Yellowstone National Park,44.4293,-110.5919, United States, North America,5.6
+Northern Chile,-23.4425,-68.4493, Chile, South America,4.6
+Mamoudzou,-12.7841,45.2242, Mayotte, Africa,5.1
+Conakry,9.5099,-13.7143, Guinea, Africa,5.7
+Monrovia,6.3134,-10.7975, Liberia, Africa,5.2
+Niamey,13.5114,2.1115, Niger, Africa,4.8
+Saint Helier,49.1897,-2.106, Jersey, Europe,4.8
+Pointe-à-Pitre,16.2346,-61.535, Guadeloupe, North America,4.8
+Moroni,-11.715,43.2464, Comoros, Africa,4.9
+Kralendijk,12.1473,-68.4189, Bonaire, North America,4.8
+Bissau,11.8646,-15.5858, Guinea-Bissau, Africa,5.7
+Monrovia,6.3076,-10.7997, Liberia, Africa,4.8
+Nuku'alofa,-21.1393,-175.2005, Tonga, Oceania,5.2
+Tunis,36.8041,10.1722, Tunisia, Africa,4.9
+Andaman and Nicobar Islands,11.7433,92.6549, India, Asia,5.2
+Sarajevo,43.8577,18.4165, Bosnia and Herzegovina, Europe,4.5
+Nairobi,-1.2842,36.8161, Kenya, Africa,4.9
+East Pacific Rise,-3.9689,-103.3487, Peru, South America,5.3
+Dakar,14.6902,-17.4452, Senegal, Africa,4.8
+Freetown,8.4875,-13.2295, Sierra Leone, Africa,5.3
+Palmer Station,-64.7689,-64.0547, Antarctica, Antarctica,4.7
+Gustavia,17.894,-62.8495, Saint Barthelemy, North America,4.9
+Nouakchott,18.0715,-15.9676, Mauritania, Africa,4.9
+Mariana Trench,11.3946,142.7128, Mariana Islands, Oceania,4.9
+Manila,13.4097,122.5663, Philippines, Asia,4.8
+Yamoussoukro,6.8228,-5.2717, Côte d'Ivoire, Africa,5.2
+Zurich,47.3769,8.5417, Switzerland, Europe,4.8
+Mexico City,19.4339,-99.1302, Mexico, North America,4.9
+Istanbul,41.0065,28.9801, Turkey, Europe,5.6
+San Jose,37.7725,-122.4212, United States, North America,4.7
+The Bottom,17.6369,-63.2383, Saba, North America,5.6
+San Andreas Fault,36.7761,-119.4168, United States, North America,4.9
+Conakry,9.5059,-13.7124, Guinea, Africa,4.7
+Port Moresby,-9.4451,147.1837, Papua New Guinea, Oceania,5.0
+Kinshasa,-4.4451,15.2626, Democratic Republic of the Congo, Africa,5.2
+Bujumbura,-3.3905,29.3675, Burundi, Africa,5.6
+Bamako,12.636,-8.0008, Mali, Africa,4.8
+Yamoussoukro,6.8174,-5.2774, Côte d'Ivoire, Africa,4.7
+Athens,37.9838,23.7275, Greece, Europe,4.9
+Port Louis,-20.1632,57.4885, Mauritius, Africa,4.8
+Abidjan,5.3589,-4.0074, Côte d'Ivoire, Africa,4.9
+Abidjan,5.3591,-4.0077, Côte d'Ivoire, Africa,4.9
+Bishkek,42.8666,74.6, Kyrgyzstan, Asia,4.8
+San Juan,18.4631,-66.1075, Puerto Rico, North America,4.7
+Gustavia,17.8994,-62.8469, Saint Barthelemy, North America,5.3
+Shikoku,33.749,133.7311, Japan, Asia,4.7
+Dakar,14.6904,-17.4454, Senegal, Africa,4.8
+Kigali,-1.9568,30.0551, Rwanda, Africa,5.3
+Mogadishu,2.0371,45.3435, Somalia, Africa,4.8
+Abidjan,5.3627,-4.0046, Côte d'Ivoire, Africa,5.3
+Vanuatu,-15.3799,166.9556, Vanuatu, Oceania,5.1
+Dar es Salaam,-6.7938,39.2117, Tanzania, Africa,5.3
+Vladivostok,43.1712,132.0107, Russia, Asia,4.9
+Ouagadougou,12.37,-1.5182, Burkina Faso, Africa,4.8
+Banjul,13.4502,-16.5887, Gambia, Africa,4.7
+Kamchatka Peninsula,56.1299,160.6423, Russia, Asia,4.9
+Dakar,14.6956,-17.4426, Senegal, Africa,5.2
+Abidjan,5.3609,-4.0117, Côte d'Ivoire, Africa,5.8
+Freetown,8.4811,-13.2311, Sierra Leone, Africa,4.8
+Banjul,13.4494,-16.5879, Gambia, Africa,4.7
+Ouagadougou,12.374,-1.5153, Burkina Faso, Africa,5.3
+Sarajevo,43.8539,18.4149, Bosnia and Herzegovina, Europe,5.0
+Yamoussoukro,6.8194,-5.2752, Côte d'Ivoire, Africa,4.7
+Bissau,11.861,-15.5813, Guinea-Bissau, Africa,4.8
+Dakar,14.6932,-17.4491, Senegal, Africa,5.6
+Niamey,13.5092,2.1135, Niger, Africa,4.7
+Yamoussoukro,6.8182,-5.2781, Côte d'Ivoire, Africa,4.7
+Saint John's,17.1189,-61.849, Antigua and Barbuda, North America,5.6
+Lilongwe,-13.961,33.773, Malawi, Africa,4.5
+Orcadas Base,-60.7302,-44.735, Antarctica, Antarctica,4.7
+Baku,40.4125,49.8634, Azerbaijan, Europe,5.3
+Ljubljana,46.0546,14.5076, Slovenia, Europe,4.5
+Bamako,12.6364,-8.0012, Mali, Africa,4.8
+Budapest,47.4979,19.0402, Hungary, Europe,4.9
+Kathmandu,27.7181,85.3203, Nepal, Asia,5.8
+Khartoum,15.5,32.5, Sudan, Africa,4.7
+Gustavia,17.8965,-62.8498, Saint Barthelemy, North America,4.9
+Lhasa,29.653,91.1747, Tibet, Asia,5.2
+Kamchatka Peninsula,56.1307,160.6442, Russia, Asia,4.7
+Lisbon,38.7223,-9.1393, Portugal, Europe,4.9
+Freetown,8.4813,-13.2344, Sierra Leone, Africa,4.7
+Vladivostok,43.171,132.0136, Russia, Asia,4.8
+Georgetown,6.7989,-58.1569, Guyana, South America,4.8
+South Anatolian Fault Zone,36.2006,32.3239, Turkey, Europe,4.8
+Bamako,12.6412,-7.998, Mali, Africa,5.3
+Nouakchott,18.0745,-15.9715, Mauritania, Africa,5.8
+Freetown,8.4809,-13.234, Sierra Leone, Africa,4.7
+Port Louis,-20.1654,57.4896, Mauritius, Africa,4.9
+Stanley,-51.7,-57.85, Falkland Islands, South America,4.8
+Belgrano II Base,-77.8695,-34.6117, Antarctica, Antarctica,5.2
+Kampala,0.3112,32.5829, Uganda, Africa,4.6
+Philippine Sea Plate,13.4681,122.6034, Philippines, Asia,5.7
+Banjul,13.452,-16.5863, Gambia, Africa,4.8
+Freetown,8.4851,-13.236, Sierra Leone, Africa,5.6
+Ulaanbaatar,47.9192,106.8821, Mongolia, Asia,4.8
+Casey Station,-66.2861,110.5212, Antarctica, Antarctica,5.3
+Freetown,8.4871,-13.2291, Sierra Leone, Africa,5.3
+Esperanza Base,-63.3943,-57.0001, Antarctica, Antarctica,5.7
+Freetown,8.4821,-13.2353, Sierra Leone, Africa,4.7
+George Town,19.2883,-81.3709, Cayman Islands, North America,5.6
+Bissau,11.8612,-15.5838, Guinea-Bissau, Africa,4.7
+Hargeisa,9.477,44.0735, Somalia, Africa,5.3
+Thessaloniki,40.6401,22.9444, Greece, Europe,5.2
+Kampala,0.3136,32.5811, Uganda, Africa,4.9
+Bissau,11.866,-15.5791, Guinea-Bissau, Africa,5.2
+Juba,4.8572,31.5702, South Sudan, Africa,4.8
+Port of Spain,10.6589,-61.5107, Trinidad and Tobago, North America,5.3
+San Jose,9.9259,-84.0896, Costa Rica, North America,4.9
+Dakar,14.6902,-17.4483, Senegal, Africa,4.7
+Yamoussoukro,6.8204,-5.2762, Côte d'Ivoire, Africa,4.7
+Georgetown,6.8023,-58.1571, Guyana, South America,4.7
+San Andreas Fault,36.7759,-119.4197, United States, North America,4.7
+Aegean Sea,37.9816,23.7264, Greece, Europe,4.7
+San Juan,18.4655,-66.1057, Puerto Rico, North America,4.7
+Banjul,13.454,-16.5903, Gambia, Africa,5.7
+Tripoli,32.8886,13.1947, Libya, Africa,5.2
+Sofia,42.6991,23.3253, Bulgaria, Europe,5.5
+Nouakchott,18.0709,-15.967, Mauritania, Africa,4.9
+Bissau,11.8608,-15.5815, Guinea-Bissau, Africa,4.8
+Los Angeles,34.0522,-118.2437, USA, North America,4.3
+Kabul,34.5531,69.2064, Afghanistan, Asia,4.8
+Kinshasa,-4.4433,15.2697, Democratic Republic of the Congo, Africa,5.8
+Niamey,13.5096,2.1139, Niger, Africa,4.7
+Nouakchott,18.0703,-15.9664, Mauritania, Africa,4.9
+Cape Town,-33.9212,18.4196, South Africa, Africa,5.5
+Conakry,9.5123,-13.7077, Guinea, Africa,5.3
+Paramaribo,5.8552,-55.2001, Suriname, South America,5.2
+Saint Peter Port,49.4613,-2.5387, Guernsey, Europe,5.7
+Kinshasa,-4.4397,15.2652, Democratic Republic of the Congo, Africa,4.9
+Bamako,12.6392,-8.0029, Mali, Africa,4.8
+Santo Domingo,18.4875,-69.9346, Dominican Republic, North America,5.6
+Cape Town,-33.9158,18.4222, South Africa, Africa,4.5
+Andaman and Nicobar Islands,11.7415,92.662, India, Asia,5.7
+Freetown,8.4857,-13.2366, Sierra Leone, Africa,5.6
+Lisbon,38.7199,-9.1411, Portugal, Europe,4.7
+Orcadas Base,-60.7304,-44.7321, Antarctica, Antarctica,4.8
+Ouagadougou,12.3736,-1.5149, Burkina Faso, Africa,5.3
+Sumatra,0.0,102.0, Indonesia, Asia,4.2
+Freetown,8.4837,-13.2326, Sierra Leone, Africa,4.8
+Kralendijk,12.1527,-68.4163, Bonaire, North America,5.3
+Vernadsky Research Base,-65.247,-64.2665, Antarctica, Antarctica,5.7
+Niamey,13.5132,2.1153, Niger, Africa,5.7
+Caribbean Plate,18.1768,-68.9809, Dominican Republic, North America,4.8
+Conakry,9.5117,-13.7071, Guinea, Africa,5.3
+Yamoussoukro,6.817,-5.277, Côte d'Ivoire, Africa,4.7
+Conakry,9.5069,-13.7134, Guinea, Africa,4.7
+Bishkek,42.9166,74.75, Kyrgyzstan, Asia,5.0
+Yangon,16.8661,96.1951, Myanmar, Asia,5.4
+Marrakech,31.6273,-7.98, Morocco, Africa,4.8
+Maputo,-25.8948,32.6014, Mozambique, Africa,5.3
+Yamoussoukro,6.8236,-5.2725, Côte d'Ivoire, Africa,5.2
+Grytviken,-54.2849,-36.5052, South Georgia and the South Sandwich Islands, South America,5.2
+Niamey,13.5126,2.1147, Niger, Africa,5.7
+Ouagadougou,12.3684,-1.5208, Burkina Faso, Africa,4.7
+Saint-Denis,-20.8789,55.4481, Reunion, Africa,4.7
+Rome,41.9028,12.4964, Italy, Europe,5.3
+Nouakchott,18.0713,-15.9674, Mauritania, Africa,4.9
+Yamoussoukro,6.8208,-5.2786, Côte d'Ivoire, Africa,5.6
+Algiers,36.7504,3.044, Algeria, Africa,4.5
+San Jose,9.9257,-84.0925, Costa Rica, North America,4.8
+McMurdo Station,-77.8467,166.6861, Antarctica, Antarctica,4.9
+Kyushu,33.5918,130.4051, Japan, Asia,5.6
+Quito,-0.231,-78.5267, Ecuador, South America,5.3
+Skopje,41.9949,21.429, North Macedonia, Europe,4.8
+Cape Town,-33.9194,18.4267, South Africa, Africa,5.0
+Tegucigalpa,14.0736,-87.1955, Honduras, North America,5.7
+Tashkent,41.3146,69.2761, Uzbekistan, Asia,5.3
+Mariana Trench,11.396,142.7162, Mariana Islands, Oceania,5.6
+Santo Domingo,18.4837,-69.933, Dominican Republic, North America,4.7
+Zurich,47.3783,8.5451, Switzerland, Europe,5.9
+Lisbon,38.7255,-9.1356, Portugal, Europe,5.1
+Istanbul,41.01,28.9766, Turkey, Europe,4.8
+Bishkek,42.8666,74.75, Kyrgyzstan, Asia,5.2
+Mawson Station,-67.6194,62.869, Antarctica, Antarctica,5.3
+Niamey,13.51,2.1112, Niger, Africa,4.8
+Addis Ababa,9.1428,40.4886, Ethiopia, Africa,4.8
+Faraday Station,-65.2565,-63.5033, Antarctica, Antarctica,4.8
+Conakry,9.5063,-13.7098, Guinea, Africa,4.8
+Bamako,12.638,-8.0017, Mali, Africa,4.8
+Hilo,19.7075,-155.0864, United States, North America,4.8
+Conakry,9.5065,-13.713, Guinea, Africa,4.7
+Cairo,30.033,31.2336, Egypt, Africa,4.9
+Addis Ababa,9.145,40.4897, Ethiopia, Africa,4.9
+Gustavia,17.8938,-62.8524, Saint Barthelemy, North America,4.8
+Monrovia,6.3094,-10.8004, Liberia, Africa,4.8
+Bissau,11.863,-15.5826, Guinea-Bissau, Africa,4.8
+Ouagadougou,12.3688,-1.5212, Burkina Faso, Africa,4.7
+Abidjan,5.3569,-4.0066, Côte d'Ivoire, Africa,4.9
+Asuncion,-23.4439,-58.4472, Paraguay, South America,5.6
+Dakar,14.6926,-17.4465, Senegal, Africa,4.7
+Sofia,42.7009,23.3182, Bulgaria, Europe,5.1
+Southern Chile,-39.8288,-73.0665, Chile, South America,5.3
+Conakry,9.5083,-13.7107, Guinea, Africa,4.8
+Conakry,9.5067,-13.7132, Guinea, Africa,4.7
+Bissau,11.8602,-15.5848, Guinea-Bissau, Africa,4.7
+Banjul,13.4498,-16.5852, Gambia, Africa,4.8
+Port Moresby,-9.4467,147.1758, Papua New Guinea, Oceania,5.2
+Philipsburg,18.0265,-63.051, Sint Maarten, North America,5.6
+Banjul,13.45,-16.5854, Gambia, Africa,4.8
+Caribbean Plate,18.1822,-68.9783, Dominican Republic, North America,5.2
+Okhotsk Plate,56.8385,143.5555, Russia, Asia,4.9
+George Town,19.2845,-81.3693, Cayman Islands, North America,4.7
+Georgetown,6.8047,-58.1553, Guyana, South America,4.7
+Dar es Salaam,-6.7924,39.2083, Tanzania, Africa,4.2
+Ouagadougou,12.368,-1.5173, Burkina Faso, Africa,4.8
+Saint-Denis,-20.8821,55.4444, Reunion, Africa,5.3
+Cairo,30.0344,31.2369, Egypt, Africa,5.6
+Lhasa,29.6545,91.1818, Tibet, Asia,4.9
+Kamchatka Trench,53.05,161.0, Russia, Asia,4.8
+Saint Pierre,46.7775,-56.1761, Saint Pierre and Miquelon, North America,4.8
+Port Lockroy,-64.8233,-63.5062, Antarctica, Antarctica,4.8
+North Anatolian Fault Zone,40.9951,34.9831, Turkey, Europe,5.2
+Kyushu,33.5904,130.4017, Japan, Asia,4.7
+Baku,40.4069,49.8689, Azerbaijan, Europe,4.7
+Port-au-Prince,18.541,-72.336, Haiti, North America,4.7
+George Town,19.2847,-81.3664, Cayman Islands, North America,4.8
+Bissau,11.8656,-15.5795, Guinea-Bissau, Africa,5.2
+Dakar,14.6894,-17.4444, Senegal, Africa,4.8
+Okhotsk Plate,56.8383,143.5584, Russia, Asia,4.7
+Kingston,18.0157,-76.8087, Jamaica, North America,4.9
+Taipei,25.0361,121.5617, Taiwan, Asia,5.7
+Nuku'alofa,-21.1337,-175.206, Tonga, Oceania,4.6
+Conakry,9.5097,-13.7141, Guinea, Africa,5.7
+Davis Station,-68.7788,78.1101, Antarctica, Antarctica,5.6
+Abidjan,5.3595,-4.0083, Côte d'Ivoire, Africa,4.9
+Astana,51.167,71.4509, Kazakhstan, Asia,4.7
+Tripoli,32.8872,13.1913, Libya, Africa,4.3
+Managua,12.1125,-86.238, Nicaragua, North America,4.7
+Panama City,8.9802,-79.5188, Panama, North America,4.8
+Bamako,12.6414,-7.9982, Mali, Africa,5.3
+Port-au-Prince,18.5386,-72.3378, Haiti, North America,4.7
+Sumatra,1.5,100.5, Indonesia, Asia,5.2
+Kampala,0.3114,32.58, Uganda, Africa,4.8
+Bamako,12.6356,-8.0035, Mali, Africa,4.7
+Yangon,16.8675,96.1985, Myanmar, Asia,4.7
+Saint Peter Port,49.4575,-2.5371, Guernsey, Europe,4.7
+Nouakchott,18.0731,-15.9681, Mauritania, Africa,4.9
+Nouakchott,18.0759,-15.964, Mauritania, Africa,5.3
+Sumatra,2.0,100.0, Indonesia, Asia,4.8
+North Anatolian Fault Zone,40.9895,34.9886, Turkey, Europe,4.7
+Freetown,8.4843,-13.2333, Sierra Leone, Africa,4.8
+Zurich,47.3745,8.5435, Switzerland, Europe,4.7
+Shikoku,33.7466,133.7328, Japan, Asia,4.7
+Khartoum,15.6,32.5, Sudan, Africa,4.6
+Harare,-17.8324,31.0485, Zimbabwe, Africa,5.2
+Antananarivo,-18.8768,47.5097, Madagascar, Africa,4.6
+Port-au-Prince,18.5442,-72.3323, Haiti, North America,5.3
+Casey Station,-66.2805,110.5267, Antarctica, Antarctica,4.8
+Honshu,35.6927,139.688, Japan, Asia,5.3
+Conakry,9.5119,-13.7073, Guinea, Africa,5.3
+Niamey,13.51,2.1142, Niger, Africa,4.7
+Port of Spain,10.6535,-61.5164, Trinidad and Tobago, North America,4.7
+Hamilton,32.2974,-64.7773, Bermuda, North America,5.3
+Stanley,-51.6978,-57.8489, Falkland Islands, South America,4.8
+Halley Research Station,-75.584,-26.2612, Antarctica, Antarctica,4.7
+Ouagadougou,12.3728,-1.5231, Burkina Faso, Africa,5.7
+Tegucigalpa,14.0698,-87.1939, Honduras, North America,4.7
+Paramaribo,5.8533,-55.2069, Suriname, South America,5.7
+Ulaanbaatar,47.9246,106.8795, Mongolia, Asia,5.3
+Kingston,17.9746,-76.7889, Jamaica, North America,5.2
+Petropavlovsk-Kamchatsky,53.0236,158.6534, Russia, Asia,5.7
+Conakry,9.5093,-13.7117, Guinea, Africa,4.8
+Harare,-17.8306,31.0556, Zimbabwe, Africa,5.7
+Kingston,18.0193,-76.8132, Jamaica, North America,5.8
+Niamey,13.5146,2.1078, Niger, Africa,5.3
+Freetown,8.4821,-13.2321, Sierra Leone, Africa,4.8
+Abidjan,5.3599,-4.0089, Côte d'Ivoire, Africa,4.9
+Tehran,35.6931,51.3928, Iran, Asia,4.9
+Istanbul,41.0082,28.9784, Turkey, Europe,4.3
+Lisbon,38.7201,-9.1382, Portugal, Europe,4.6
+Bamako,12.6368,-8.0016, Mali, Africa,4.9
+Sumatra,0.5,101.5, Indonesia, Asia,5.0
+Lilongwe,-13.9632,33.7741, Malawi, Africa,4.2
+Conakry,9.5121,-13.7075, Guinea, Africa,5.3
+Hamilton,32.292,-64.7799, Bermuda, North America,4.8
+Mamoudzou,-12.7823,45.2313, Mayotte, Africa,5.2
+Conakry,9.5063,-13.7128, Guinea, Africa,4.7
+Ouagadougou,12.3714,-1.5216, Burkina Faso, Africa,5.7
+Kingston,17.9692,-76.7915, Jamaica, North America,4.8
+Tokyo,35.6918,139.6951, Japan, Asia,4.2
+Vanuatu,-15.3781,166.9626, Vanuatu, Oceania,5.6
+Philipsburg,18.0251,-63.0476, Sint Maarten, North America,4.7
+Bamako,12.6358,-8.0037, Mali, Africa,4.7
+Okhotsk Plate,56.8439,143.5529, Russia, Asia,5.2
+Nouakchott,18.0711,-15.9703, Mauritania, Africa,4.8
+Bamako,12.6406,-8.0063, Mali, Africa,5.7
+Abidjan,5.3575,-4.0075, Côte d'Ivoire, Africa,4.9
+Caribbean Plate,18.179,-68.982, Dominican Republic, North America,4.7
+Lilongwe,-13.9608,33.7759, Malawi, Africa,4.8
+Niamey,13.5152,2.1084, Niger, Africa,5.3
+Lusaka,-15.3851,28.3246, Zambia, Africa,4.6
+Dakar,14.6906,-17.4456, Senegal, Africa,4.8
+Asuncion,-23.4403,-58.4427, Paraguay, South America,4.8
+Jakarta,-6.2088,106.8456, Indonesia, Asia,4.7
+Bogota,4.7109,-74.0721, Colombia, South America,5.4
+Vernadsky Research Base,-65.2456,-64.2631, Antarctica, Antarctica,4.8
+Mawson Station,-67.614,62.8716, Antarctica, Antarctica,4.8
+Kuril Islands,45.5527,148.8833, Russia, Asia,4.8
+Nouakchott,18.0707,-15.9699, Mauritania, Africa,4.8
+Freetown,8.4819,-13.2349, Sierra Leone, Africa,4.7
+Basseterre,17.2989,-62.7302, Saint Kitts and Nevis, North America,5.3
+Niamey,13.515,2.1082, Niger, Africa,5.3
+Nouakchott,18.0761,-15.9642, Mauritania, Africa,5.3
+Bucharest,44.429,26.1005, Romania, Europe,5.3
+Saint Peter Port,49.4577,-2.5342, Guernsey, Europe,4.8
+San Salvador,13.6907,-89.2171, El Salvador, North America,4.8
+Vernadsky Research Base,-65.2434,-64.262, Antarctica, Antarctica,4.8
+Puget Sound,47.7489,-122.3613, United States, North America,4.9
+Rome,41.9015,12.4988, Italy, Europe,4.6
+Rome,41.9052,12.494, Italy, Europe,5.0
+Nouakchott,18.0751,-15.9721, Mauritania, Africa,5.8
+Budapest,47.4993,19.0436, Hungary, Europe,5.2
+Los Angeles,34.0509,-118.2421, USA, North America,4.9
+Bamako,12.6398,-8.0055, Mali, Africa,5.7
+Davis Station,-68.7774,78.1067, Antarctica, Antarctica,4.7
+Kinshasa,-4.4395,15.2681, Democratic Republic of the Congo, Africa,4.5
+Montevideo,-34.8989,-56.1861, Uruguay, South America,4.9
+Niamey,13.5103,2.1115, Niger, Africa,4.8
+Yamoussoukro,6.823,-5.2719, Côte d'Ivoire, Africa,5.2
+Conakry,9.5127,-13.7083, Guinea, Africa,5.3
+Niamey,13.5139,2.116, Niger, Africa,5.7
+Ouagadougou,12.3678,-1.5202, Burkina Faso, Africa,4.7
+Caribbean Plate,18.1766,-68.9838, Dominican Republic, North America,4.7
+Managua,12.1149,-86.2362, Nicaragua, North America,4.7
+Signy Research Station,-60.6324,-45.5935, Antarctica, Antarctica,5.7
+Monrovia,6.311,-10.804, Liberia, Africa,5.7
+Southern Chile,-39.8256,-73.0702, Chile, South America,4.9
+Monrovia,6.3112,-10.8042, Liberia, Africa,5.7
+Nouakchott,18.0707,-15.9668, Mauritania, Africa,4.9
+Khartoum,15.55,33.0, Sudan, Africa,5.1
+East Pacific Rise,-3.9671,-103.3558, Peru, South America,5.6
+Mamoudzou,-12.7787,45.2268, Mayotte, Africa,4.6
+Belgrade,44.7845,20.4478, Serbia, Europe,4.5
+Dakar,14.6896,-17.4446, Senegal, Africa,4.8
+Nouakchott,18.0727,-15.9677, Mauritania, Africa,4.9
+Tokyo,35.6865,139.6923, Japan, Asia,5.8
+Jakarta,-6.2103,106.849, Indonesia, Asia,5.5
+Mawson Station,-67.6176,62.8761, Antarctica, Antarctica,5.7
+Lilongwe,-13.9646,33.7775, Malawi, Africa,5.3
+Niamey,13.5094,2.1137, Niger, Africa,4.7
+Cocos Plate,9.7489,-85.3932, Costa Rica, North America,4.8
+Paramaribo,5.8496,-55.2056, Suriname, South America,4.7
+Bamako,12.6392,-8.0049, Mali, Africa,5.7
+Bissau,11.8604,-15.5819, Guinea-Bissau, Africa,4.8
+Vienna,48.8566,16.3565, Austria, Europe,4.7
+San Andreas Fault,36.7797,-119.4213, United States, North America,5.8
+Mexico City,19.4347,-99.1324, Mexico, North America,4.2
+Dakar,14.6892,-17.4473, Senegal, Africa,4.7
+Niamey,13.5103,2.1146, Niger, Africa,4.7
+Niamey,13.5101,2.1144, Niger, Africa,4.7
+Bissau,11.8668,-15.5783, Guinea-Bissau, Africa,5.2
+Ouagadougou,12.3712,-1.5194, Burkina Faso, Africa,4.8
+Petropavlovsk-Kamchatsky,53.0254,158.6463, Russia, Asia,5.2
+Hargeisa,9.4752,44.0806, Somalia, Africa,5.7
+Tegucigalpa,14.0754,-87.1884, Honduras, North America,5.3
+Port Louis,-20.163,57.4914, Mauritius, Africa,4.6
+Bissau,11.8642,-15.5862, Guinea-Bissau, Africa,5.7
+Signy Research Station,-60.6286,-45.5919, Antarctica, Antarctica,4.7
+Tunis,36.8079,10.1738, Tunisia, Africa,5.5
+Kampala,0.315,32.5845, Uganda, Africa,5.6
+Mexico City,19.4326,-99.1332, Mexico, North America,4.5
+Antananarivo,-18.8806,47.5113, Madagascar, Africa,5.9
+Philippine Sea Plate,13.4645,122.5989, Philippines, Asia,4.8
+Christchurch,-43.5283,172.6419, New Zealand, Oceania,4.8
+Lusaka,-15.3907,28.3191, Zambia, Africa,5.1
+Kamchatka Peninsula,56.1335,160.6478, Russia, Asia,5.8
+Yamoussoukro,6.8184,-5.2752, Côte d'Ivoire, Africa,4.8
+Lhasa,29.6516,91.1721, Tibet, Asia,4.1
+Bamako,12.6366,-8.0045, Mali, Africa,4.8
+Budapest,47.5011,19.0365, Hungary, Europe,5.0
+Honiara,-9.4339,160.0429, Solomon Islands, Oceania,5.1
+Abidjan,5.3593,-4.008, Côte d'Ivoire, Africa,4.9
+Tbilisi,41.7183,44.8234, Georgia, Europe,5.3
+San Juan,18.4687,-66.102, Puerto Rico, North America,5.2
+Athens,37.9861,23.7262, Greece, Europe,4.3
+Andaman and Nicobar Islands,11.7401,92.6586, India, Asia,4.8
+Philipsburg,18.0229,-63.0465, Sint Maarten, North America,4.8
+Niamey,13.5105,2.1117, Niger, Africa,4.8
+La Paz,-16.5,-68.15, Bolivia, South America,4.8
+Cocos Plate,9.7467,-85.3921, Costa Rica, North America,4.9
+Georgetown,6.8045,-58.1514, Guyana, South America,5.3
+Monrovia,6.3116,-10.8046, Liberia, Africa,5.7
+Conakry,9.5071,-13.7138, Guinea, Africa,4.7
+Dakar,14.6938,-17.4497, Senegal, Africa,5.6
+Santo Domingo,18.4839,-69.9301, Dominican Republic, North America,4.8
+Freetown,8.4867,-13.2287, Sierra Leone, Africa,5.3
+Quito,-0.2327,-78.5206, Ecuador, South America,5.2
+Maputo,-25.8916,32.6051, Mozambique, Africa,4.5
+Montevideo,-34.9011,-56.1872, Uruguay, South America,4.8
+Monrovia,6.3072,-10.7993, Liberia, Africa,4.8
+Lusaka,-15.3889,28.3262, Zambia, Africa,5.8
+Nouakchott,18.0733,-15.9683, Mauritania, Africa,4.9
+Bissau,11.8648,-15.5856, Guinea-Bissau, Africa,5.7
+Puget Sound,47.7511,-122.3624, United States, North America,4.8
+Conakry,9.5089,-13.7113, Guinea, Africa,4.8
+Faraday Station,-65.2589,-63.5015, Antarctica, Antarctica,4.9
+Ouagadougou,12.3682,-1.5206, Burkina Faso, Africa,4.7
+Signy Research Station,-60.631,-45.5901, Antarctica, Antarctica,4.8
+Bamako,12.6402,-8.0059, Mali, Africa,5.7
+Islamabad,33.6844,73.0479, Pakistan, Asia,4.3
+Cocos Plate,9.7521,-85.3895, Costa Rica, North America,5.3
+Abidjan,5.3597,-4.0086, Côte d'Ivoire, Africa,4.9
+Lima,-12.0437,-77.0449, Peru, South America,4.9
+Niamey,13.5154,2.1086, Niger, Africa,5.3
+Freetown,8.4813,-13.2313, Sierra Leone, Africa,4.8
+Port Louis,-20.1668,57.493, Mauritius, Africa,5.7
+Tirana,41.3251,19.8205, Albania, Europe,4.3
+Nairobi,-1.2864,36.8172, Kenya, Africa,4.6
+The Bottom,17.6387,-63.2312, Saba, North America,5.2
+Tonga Trench,-23.1176,-172.0818, Tonga, Oceania,4.7
+Saint-Denis,-20.8765,55.4499, Reunion, Africa,4.8
+Banjul,13.4494,-16.5848, Gambia, Africa,4.8
+Juba,4.8608,31.5747, South Sudan, Africa,5.6
+Conakry,9.5107,-13.7151, Guinea, Africa,5.7
+San Salvador,13.6905,-89.22, El Salvador, North America,4.7
+Yerevan,40.1886,44.5186, Armenia, Europe,5.6
+Georgetown,6.8027,-58.1585, Guyana, South America,5.8
+Abidjan,5.3563,-4.0089, Côte d'Ivoire, Africa,4.8
+Skopje,41.9951,21.426, North Macedonia, Europe,4.6
+Casey Station,-66.2843,110.5283, Antarctica, Antarctica,5.8
+Vladivostok,43.1748,132.0152, Russia, Asia,5.6
+Vanuatu,-15.3767,166.9592, Vanuatu, Oceania,4.5
+San Jose,37.7749,-122.4194, United States, North America,4.7
+Cascadia Subduction Zone,49.2859,-125.0058, Canada, North America,5.2
+Belgrade,44.7843,20.4507, Serbia, Europe,4.8
+Pointe-à-Pitre,16.2324,-61.5339, Guadeloupe, North America,4.8
+Dakar,14.6958,-17.4428, Senegal, Africa,5.2
+Hamilton,32.2956,-64.7844, Bermuda, North America,5.7
+Zagreb,45.0,15.2, Croatia, Europe,4.8
+Tegucigalpa,14.0722,-87.1921, Honduras, North America,4.8
+Niamey,13.5138,2.1158, Niger, Africa,5.7
+Davis Station,-68.7806,78.103, Antarctica, Antarctica,5.2
+Yamoussoukro,6.8206,-5.2764, Côte d'Ivoire, Africa,4.7
+Rothera Research Station,-67.566,-68.1239, Antarctica, Antarctica,5.6
+Yamoussoukro,6.8212,-5.279, Côte d'Ivoire, Africa,5.6
+Skopje,42.0005,21.4235, North Macedonia, Europe,5.3
+Sumatra,1.0,101.0, Indonesia, Asia,4.5
+Palmer Station,-64.7714,-64.0529, Antarctica, Antarctica,4.7
+Taipei,25.033,121.5654, Taiwan, Asia,4.7
+Yamoussoukro,6.8238,-5.2726, Côte d'Ivoire, Africa,5.2
+Juba,4.8626,31.5676, South Sudan, Africa,5.2
+Monrovia,6.3074,-10.7995, Liberia, Africa,4.8
+Ashgabat,37.9838,58.3333, Turkmenistan, Asia,4.5
+Marrakech,31.6327,-7.9774, Morocco, Africa,5.2
+Bujumbura,-3.3869,29.3629, Burundi, Africa,4.8
+Nouakchott,18.0737,-15.9687, Mauritania, Africa,4.9
+Petropavlovsk-Kamchatsky,53.0222,158.65, Russia, Asia,4.8
+Cape Town,-33.9156,18.4251, South Africa, Africa,4.7
+Quito,-0.2264,-78.5232, Ecuador, South America,4.6
+Paramaribo,5.852,-55.2038, Suriname, South America,4.8
+George Town,19.2901,-81.3638, Cayman Islands, North America,5.3
+Abidjan,5.3565,-4.006, Côte d'Ivoire, Africa,4.9
+Niamey,13.5157,2.1089, Niger, Africa,5.3
+Saint Helier,49.1919,-2.1071, Jersey, Europe,4.7
+Port of Spain,10.6591,-61.5109, Trinidad and Tobago, North America,5.2
+Niamey,13.5094,2.1106, Niger, Africa,4.8
+Kigali,-1.9514,30.0577, Rwanda, Africa,4.8
+Dakar,14.6922,-17.4461, Senegal, Africa,4.7
+Hokkaido,43.2235,142.8587, Japan, Asia,5.3
+Belgrade,44.7866,20.4489, Serbia, Europe,4.3
+Bamako,12.6388,-8.0025, Mali, Africa,4.8
+Gustavia,17.8976,-62.854, Saint Barthelemy, North America,5.8
+Bujumbura,-3.3891,29.3641, Burundi, Africa,4.9
+Dakar,14.696,-17.443, Senegal, Africa,5.2
+Bamako,12.6356,-7.9994, Mali, Africa,4.8
+Marrakech,31.6271,-7.9829, Morocco, Africa,4.6
+Bamako,12.639,-8.0027, Mali, Africa,4.9
+Athens,37.9815,23.7298, Greece, Europe,5.2
+Lima,-12.0453,-77.0366, Peru, South America,4.8
+Bridgetown,13.1132,-59.5988, Barbados, North America,4.8
+Istanbul,41.0047,28.9799, Turkey, Europe,5.3
+Dakar,14.6928,-17.4467, Senegal, Africa,4.7
+Aegean Sea,37.987,23.7238, Greece, Europe,5.2
+Aegean Sea,37.9838,23.7275, Greece, Europe,4.6
+Monrovia,6.308,-10.8032, Liberia, Africa,4.7
+Bissau,11.8638,-15.5866, Guinea-Bissau, Africa,5.7
+Abidjan,5.3631,-4.0051, Côte d'Ivoire, Africa,5.3
+Bucharest,44.429,26.1005, Romania, Europe,5.4
+Taipei,25.0296,121.5663, Taiwan, Asia,4.5
+San Jose,9.9313,-84.087, Costa Rica, North America,5.2
+Taipei,25.0307,121.5632, Taiwan, Asia,4.9
+Cascadia Subduction Zone,49.2805,-125.0084, Canada, North America,4.9
+Casey Station,-66.2807,110.5238, Antarctica, Antarctica,4.9
+Abidjan,5.3575,-4.0106, Côte d'Ivoire, Africa,4.8
+North Anatolian Fault Zone,40.9933,34.9902, Turkey, Europe,5.6
+Basseterre,17.2941,-62.7322, Saint Kitts and Nevis, North America,4.8
+Freetown,8.4817,-13.2347, Sierra Leone, Africa,4.7
+Sakhalin,46.9561,142.7365, Russia, Asia,4.7
+Banjul,13.4534,-16.5897, Gambia, Africa,5.7
+Hamilton,32.2942,-64.781, Bermuda, North America,4.8
+Mawson Station,-67.6138,62.8745, Antarctica, Antarctica,4.7
+Bogota,4.7098,-74.0682, Colombia, South America,4.5
+San Jose,9.9295,-84.0941, Costa Rica, North America,5.8
+Philipsburg,18.0283,-63.0439, Sint Maarten, North America,5.2
+Islamabad,33.6827,73.0497, Pakistan, Asia,4.7
+Nairobi,-1.2878,36.8206, Kenya, Africa,5.7
+Rothera Research Station,-67.5624,-68.1194, Antarctica, Antarctica,4.8
+Belgrade,44.7899,20.4452, Serbia, Europe,5.0
+Zurich,47.3801,8.538, Switzerland, Europe,5.1
+Kabul,34.5553,69.2075, Afghanistan, Asia,4.9
+Freetown,8.4811,-13.2342, Sierra Leone, Africa,4.7
+San Jose,37.7781,-122.4157, United States, North America,5.2
+Suva,-18.1279,178.4465, Fiji, Oceania,5.5
+Ouagadougou,12.3744,-1.5157, Burkina Faso, Africa,5.3
+Algiers,36.7528,3.0422, Algeria, Africa,4.7
+Dakar,14.6948,-17.4418, Senegal, Africa,5.2
+Jakarta,-6.2077,106.8438, Indonesia, Asia,4.8
+Aegean Sea,37.9814,23.7293, Greece, Europe,4.8
+Banjul,13.4556,-16.583, Gambia, Africa,5.3
+Hokkaido,43.2179,142.8642, Japan, Asia,4.8
+Bamako,12.6364,-8.0043, Mali, Africa,4.7
+Yamoussoukro,6.8202,-5.276, Côte d'Ivoire, Africa,4.7
+Quito,-0.2273,-78.5232, Ecuador, South America,4.8
+San Andreas Fault,36.7783,-119.4179, United States, North America,4.9
+Banjul,13.455,-16.5824, Gambia, Africa,5.3
+Yangon,16.8637,96.197, Myanmar, Asia,4.3
+Tbilisi,41.7165,44.8305, Georgia, Europe,5.8
+Bissau,11.864,-15.5864, Guinea-Bissau, Africa,5.7
+Petropavlovsk-Kamchatsky,53.0198,158.6518, Russia, Asia,4.7
+Sofia,42.6955,23.3208, Bulgaria, Europe,4.8
+Banjul,13.4516,-16.5859, Gambia, Africa,4.8
+Conakry,9.5125,-13.7079, Guinea, Africa,5.3
+Port of Spain,10.6533,-61.5162, Trinidad and Tobago, North America,4.8
+Ouagadougou,12.3676,-1.52, Burkina Faso, Africa,4.7
+Jakarta,-6.206,106.8475, Indonesia, Asia,4.0
+Saint Peter Port,49.4599,-2.5353, Guernsey, Europe,4.8
+Monrovia,6.3136,-10.7977, Liberia, Africa,5.2
+Saint-Denis,-20.8767,55.447, Reunion, Africa,4.9
+Maputo,-25.8892,32.6069, Mozambique, Africa,4.7
+Fort-de-France,14.615,-61.0529, Martinique, North America,5.3
+Banjul,13.4522,-16.5865, Gambia, Africa,4.8
+Tunis,36.8097,10.1667, Tunisia, Africa,5.2
+Nouakchott,18.0709,-15.9701, Mauritania, Africa,4.8
+Monrovia,6.3102,-10.8012, Liberia, Africa,4.8
+Ouagadougou,12.3684,-1.5177, Burkina Faso, Africa,4.8
+Banjul,13.4506,-16.5863, Gambia, Africa,4.8
+Banjul,13.4502,-16.5856, Gambia, Africa,4.8
+Vladivostok,43.1734,132.0118, Russia, Asia,4.9
+Nouakchott,18.0735,-15.9685, Mauritania, Africa,4.9
+Halley Research Station,-75.5842,-26.2583, Antarctica, Antarctica,4.8
+Bamako,12.6366,-8.0014, Mali, Africa,4.8
+Niamey,13.5092,2.1104, Niger, Africa,4.8
+South Anatolian Fault Zone,36.2028,32.325, Turkey, Europe,4.8
+Yuzhno-Sakhalinsk,46.9606,142.7423, Russia, Asia,5.6
+Bucharest,44.4254,26.105, Romania, Europe,4.4
+Bucharest,44.4236,26.103, Romania, Europe,4.7
+Dakar,14.6934,-17.4493, Senegal, Africa,5.6
+Budapest,47.4957,19.0391, Hungary, Europe,4.6
+Bucharest,44.4282,26.0974, Romania, Europe,4.2
+Kabul,34.5585,69.2039, Afghanistan, Asia,5.2
+Saint John's,17.1151,-61.8474, Antigua and Barbuda, North America,4.7
+Banjul,13.4554,-16.5828, Gambia, Africa,5.3
+Saint John's,17.1175,-61.8456, Antigua and Barbuda, North America,4.7
+Apia,-13.852,-171.7448, Samoa, Oceania,5.0
+Nouakchott,18.0747,-15.9717, Mauritania, Africa,5.8
+East African Rift,-1.2953,36.8182, Kenya, Africa,5.3
+Esperanza Base,-63.3929,-56.9967, Antarctica, Antarctica,4.8
+Yerevan,40.185,44.5141, Armenia, Europe,4.9
+Bissau,11.8632,-15.5824, Guinea-Bissau, Africa,4.8
+Tbilisi,41.7127,44.8289, Georgia, Europe,4.8
+Yamoussoukro,6.8176,-5.2745, Côte d'Ivoire, Africa,4.8
+Victoria,-4.6169,55.4507, Seychelles, Africa,4.5
+Hokkaido,43.2217,142.8658, Japan, Asia,5.7
+Tokyo,35.6895,139.6917, Japan, Asia,5.0
+Mamoudzou,-12.7809,45.2279, Mayotte, Africa,4.3
+Ouagadougou,12.3702,-1.5184, Burkina Faso, Africa,4.8
+Okhotsk Plate,56.8407,143.5566, Russia, Asia,4.8
+Bissau,11.8636,-15.582, Guinea-Bissau, Africa,4.8
+Dakar,14.6904,-17.4485, Senegal, Africa,4.7
+Ouagadougou,12.3689,-1.5215, Burkina Faso, Africa,4.7
+Nouakchott,18.0763,-15.9644, Mauritania, Africa,5.3
+Thessaloniki,40.6379,22.9434, Greece, Europe,5.1
+East Pacific Rise,-3.9657,-103.3524, Peru, South America,4.7
+Nuku'alofa,-21.136,-175.204, Tonga, Oceania,4.7
+Vernadsky Research Base,-65.2488,-64.2594, Antarctica, Antarctica,5.3
+Yuzhno-Sakhalinsk,46.9592,142.7389, Russia, Asia,4.7
+Lima,-12.0464,-77.0428, Peru, South America,4.5
+Banjul,13.4548,-16.5822, Gambia, Africa,5.3
+Skopje,41.9987,21.4305, North Macedonia, Europe,5.0
+Dakar,14.6896,-17.4477, Senegal, Africa,4.7
+Andaman and Nicobar Islands,11.7377,92.6604, India, Asia,4.7
+Algiers,36.7542,3.0456, Algeria, Africa,5.6
+Rome,41.9037,12.4971, Italy, Europe,5.7
+Apia,-13.8502,-171.7518, Samoa, Oceania,5.6
+Kigali,-1.9536,30.0588, Rwanda, Africa,4.6
+Belgrano II Base,-77.8677,-34.6188, Antarctica, Antarctica,5.6
+Maputo,-25.893,32.6085, Mozambique, Africa,5.6
+Freetown,8.4847,-13.2356, Sierra Leone, Africa,5.6
+Monrovia,6.3132,-10.7973, Liberia, Africa,5.2
+Kamchatka Trench,53.1,161.0, Russia, Asia,4.7
+Halley Research Station,-75.5878,-26.2628, Antarctica, Antarctica,5.7
+Mamoudzou,-12.7785,45.2297, Mayotte, Africa,4.7
+Kamchatka Trench,53.0,161.0, Russia, Asia,4.7
+Freetown,8.4849,-13.2358, Sierra Leone, Africa,5.6
+Antananarivo,-18.8824,47.5042, Madagascar, Africa,5.1
+Southern Chile,-39.827,-73.0736, Chile, South America,5.8
+Tashkent,41.3089,69.2816, Uzbekistan, Asia,4.8
+Mexico City,19.4283,-99.1347, Mexico, North America,5.4
+Astana,51.1708,71.4525, Kazakhstan, Asia,5.8
+Tirana,41.3307,19.815, Albania, Europe,5.0
+Palmer Station,-64.7728,-64.0563, Antarctica, Antarctica,5.6
+Bissau,11.8614,-15.5809, Guinea-Bissau, Africa,4.8
+Ashgabat,37.9814,58.3352, Turkmenistan, Asia,4.3
+Pointe-à-Pitre,16.2378,-61.5313, Guadeloupe, North America,5.2
+Saint John's,17.1153,-61.8445, Antigua and Barbuda, North America,4.8
+Thessaloniki,40.6433,22.9408, Greece, Europe,4.6
+Astana,51.1726,71.4454, Kazakhstan, Asia,5.2
+Bamako,12.6362,-8.001, Mali, Africa,4.8
+Fort-de-France,14.6118,-61.0566, Martinique, North America,4.8
+Tonga Trench,-23.1214,-172.0834, Tonga, Oceania,5.7
+Athens,37.9797,23.7285, Greece, Europe,5.0
+Freetown,8.4817,-13.2317, Sierra Leone, Africa,4.8
+Managua,12.1127,-86.2351, Nicaragua, North America,4.8
+Road Town,18.4168,-64.5593, British Virgin Islands, North America,4.8
+Sofia,42.6953,23.3237, Bulgaria, Europe,4.9
+Budapest,47.4955,19.042, Hungary, Europe,4.8
+Tashkent,41.3092,69.2786, Uzbekistan, Asia,4.6
+Apia,-13.8466,-171.7473, Samoa, Oceania,4.8
+Banjul,13.4504,-16.5892, Gambia, Africa,4.7
+Yamoussoukro,6.8234,-5.2723, Côte d'Ivoire, Africa,5.2
+Dakar,14.69,-17.445, Senegal, Africa,4.8
+Podgorica,42.4426,19.2689, Montenegro, Europe,4.7
+Manila,13.4143,122.5647, Philippines, Asia,5.3
+Grytviken,-54.2795,-36.5078, South Georgia and the South Sandwich Islands, South America,4.8
+Kamchatka Peninsula,56.1353,160.6397, Russia, Asia,5.3
+Abidjan,5.3623,-4.004, Côte d'Ivoire, Africa,5.3
+Asuncion,-23.4457,-58.4401, Paraguay, South America,5.2
+Yamoussoukro,6.8174,-5.2743, Côte d'Ivoire, Africa,4.8
+Abidjan,5.3569,-4.0098, Côte d'Ivoire, Africa,4.8
+Dakar,14.693,-17.4489, Senegal, Africa,5.6
+Philippine Sea Plate,13.4699,122.5963, Philippines, Asia,5.3
+Puget Sound,47.7543,-122.3587, United States, North America,5.2
+Santiago,-33.4521,-70.6647, Chile, South America,4.5
+Rothera Research Station,-67.5646,-68.1205, Antarctica, Antarctica,4.7
+Saint Pierre,46.7829,-56.1735, Saint Pierre and Miquelon, North America,5.2
+Ouagadougou,12.3746,-1.516, Burkina Faso, Africa,5.2
+Abidjan,5.3571,-4.0069, Côte d'Ivoire, Africa,4.9
+Hilo,19.7089,-155.0898, United States, North America,5.7
+Monrovia,6.3104,-10.8014, Liberia, Africa,4.8
+Conakry,9.5087,-13.7111, Guinea, Africa,4.8
+Kyushu,33.5936,130.398, Japan, Asia,5.2
+Davis Station,-68.7752,78.1056, Antarctica, Antarctica,4.8
+East Pacific Rise,-3.9633,-103.3542, Peru, South America,4.7
+Tripoli,32.8848,13.1931, Libya, Africa,4.7
+Bamako,12.6404,-8.0061, Mali, Africa,5.8
+Sofia,42.6955,23.3208, Bulgaria, Europe,4.7
+South Anatolian Fault Zone,36.2004,32.3268, Turkey, Europe,4.7
+Honshu,35.6895,139.6917, Japan, Asia,4.9
+Monrovia,6.3118,-10.8048, Liberia, Africa,5.7
+Sofia,42.6991,23.3253, Bulgaria, Europe,5.4
+San Francisco,37.7756,-122.4189, USA, North America,5.0
+Bissau,11.8606,-15.5817, Guinea-Bissau, Africa,4.8
+Ouagadougou,12.3742,-1.5155, Burkina Faso, Africa,5.3
+Nouakchott,18.0749,-15.9719, Mauritania, Africa,5.8
+Juba,4.857,31.5731, South Sudan, Africa,4.7
+San Jose,9.9281,-84.0907, Costa Rica, North America,4.9
+Islamabad,33.6861,73.0453, Pakistan, Asia,5.1
+Khartoum,15.55,32.5, Sudan, Africa,4.9
+Abidjan,5.3567,-4.0063, Côte d'Ivoire, Africa,4.9
+Addis Ababa,9.1482,40.486, Ethiopia, Africa,5.2
+Bamako,12.64,-8.0057, Mali, Africa,5.7
+Grytviken,-54.2793,-36.5107, South Georgia and the South Sandwich Islands, South America,4.7
+Hilo,19.7107,-155.0827, United States, North America,5.3
+Ouagadougou,12.3734,-1.5147, Burkina Faso, Africa,5.3
+Halley Research Station,-75.5864,-26.2594, Antarctica, Antarctica,4.8
+Dakar,14.694,-17.4499, Senegal, Africa,5.6
+Niamey,13.5098,2.1141, Niger, Africa,4.7
+Banjul,13.4558,-16.5832, Gambia, Africa,5.3
+Niamey,13.5144,2.1076, Niger, Africa,5.3
+Paramaribo,5.8498,-55.2027, Suriname, South America,4.9
+Bissau,11.8664,-15.5787, Guinea-Bissau, Africa,5.2
+King Edward Point,-54.2865,-36.4963, South Georgia and the South Sandwich Islands, South America,5.3
+Halley Research Station,-75.5896,-26.2557, Antarctica, Antarctica,5.3
+Abidjan,5.3571,-4.0101, Côte d'Ivoire, Africa,4.8
+Cascadia Subduction Zone,49.2841,-125.0129, Canada, North America,5.7
+Shikoku,33.7522,133.7273, Japan, Asia,5.2
+George Town,19.2869,-81.3675, Cayman Islands, North America,4.7
+Niamey,13.5098,2.111, Niger, Africa,4.8
+Port Lockroy,-64.8287,-63.5036, Antarctica, Antarctica,5.3
+Northern Chile,-23.4401,-68.4511, Chile, South America,4.7
+Kingston,18.0179,-76.8098, Jamaica, North America,4.9
+Andaman and Nicobar Islands,11.7379,92.6575, India, Asia,4.9
+Athens,37.9844,23.725, Greece, Europe,4.7
+Monrovia,6.3128,-10.7969, Liberia, Africa,5.2
+Bamako,12.6418,-7.9986, Mali, Africa,5.3
+Tbilisi,41.7151,44.8271, Georgia, Europe,4.9
+Monrovia,6.3114,-10.8044, Liberia, Africa,5.7
+Kingston,17.9728,-76.796, Jamaica, North America,5.7
+Vanuatu,-15.3753,166.961, Vanuatu, Oceania,4.3
+Northern Chile,-23.4403,-68.4482, Chile, South America,4.8
+Panama City,8.9838,-79.5233, Panama, North America,5.6
+Panama City,8.98,-79.5217, Panama, North America,4.7
+Port Moresby,-9.4401,147.1823, Papua New Guinea, Oceania,4.6
+Banjul,13.4504,-16.5858, Gambia, Africa,4.8
+Nouakchott,18.0725,-15.9675, Mauritania, Africa,4.9
+Orcadas Base,-60.7358,-44.7295, Antarctica, Antarctica,5.2
+Kamchatka Trench,53.05,162.0, Russia, Asia,5.2
+Banjul,13.45,-16.5885, Gambia, Africa,4.7
+Conakry,9.5105,-13.7149, Guinea, Africa,5.7
+Bissau,11.8608,-15.5842, Guinea-Bissau, Africa,4.7
+Los Angeles,34.0516,-118.2455, USA, North America,5.5
+Honshu,35.6909,139.6951, Japan, Asia,5.8
+Banjul,13.4492,-16.5877, Gambia, Africa,4.7
+Quito,-0.2295,-78.5243, Ecuador, South America,4.7
+Manila,13.411,122.5602, Philippines, Asia,4.2
+Ashgabat,37.9816,58.3322, Turkmenistan, Asia,4.8
+Northern Chile,-23.4439,-68.4527, Chile, South America,5.5
+San Juan,18.4669,-66.1091, Puerto Rico, North America,5.6
+Cairo,30.0308,31.2324, Egypt, Africa,4.8
+Niamey,13.5156,2.1087, Niger, Africa,5.3
+Caribbean Plate,18.1804,-68.9854, Dominican Republic, North America,5.6
+Grytviken,-54.2817,-36.5089, South Georgia and the South Sandwich Islands, South America,4.8
+Kuril Islands,45.5525,148.8862, Russia, Asia,4.7
+Monrovia,6.307,-10.8022, Liberia, Africa,4.7
+Hamilton,32.2918,-64.7828, Bermuda, North America,4.7
+King Edward Point,-54.2809,-36.5018, South Georgia and the South Sandwich Islands, South America,4.7
+Conakry,9.5065,-13.71, Guinea, Africa,4.8
+Ouagadougou,12.3678,-1.5171, Burkina Faso, Africa,4.8
+Bishkek,42.9666,74.6, Kyrgyzstan, Asia,4.7
+Conakry,9.5069,-13.7104, Guinea, Africa,4.8
+Tunis,36.8043,10.1693, Tunisia, Africa,4.7
+Abidjan,5.3629,-4.0049, Côte d'Ivoire, Africa,5.3
+Antananarivo,-18.8792,47.5079, Madagascar, Africa,4.8
+Bamako,12.6362,-8.0041, Mali, Africa,4.7
+San Francisco,37.7749,-122.4194, USA, North America,4.8
+Yamoussoukro,6.8216,-5.2794, Côte d'Ivoire, Africa,5.6
+Harare,-17.8268,31.0539, Zimbabwe, Africa,4.7
+Saint Helier,49.1951,-2.1034, Jersey, Europe,5.2
+Bridgetown,13.111,-59.5977, Barbados, North America,4.8
+Conakry,9.5101,-13.7145, Guinea, Africa,5.7
+Monrovia,6.312,-10.8049, Liberia, Africa,5.7
+Banjul,13.4536,-16.5899, Gambia, Africa,5.7
+Zurich,47.3747,8.5406, Switzerland, Europe,4.2
+Sofia,42.6953,23.3237, Bulgaria, Europe,4.7
+Banjul,13.4542,-16.5908, Gambia, Africa,5.7
+Quito,-0.2272,-78.5252, Ecuador, South America,4.7
+Signy Research Station,-60.6288,-45.589, Antarctica, Antarctica,4.8
+Ulaanbaatar,47.9228,106.8866, Mongolia, Asia,5.7
+Faraday Station,-65.2603,-63.5049, Antarctica, Antarctica,5.8
+Santiago,-33.4505,-70.6717, Chile, South America,5.2
+Saint-Denis,-20.8803,55.4515, Reunion, Africa,5.6
+Rothera Research Station,-67.5678,-68.1168, Antarctica, Antarctica,5.2
+Bissau,11.8662,-15.5789, Guinea-Bissau, Africa,5.2
+Conakry,9.5085,-13.7109, Guinea, Africa,4.8
+Port-au-Prince,18.5424,-72.3394, Haiti, North America,5.6
+Yamoussoukro,6.8176,-5.2776, Côte d'Ivoire, Africa,4.7
+Moroni,-11.7172,43.2475, Comoros, Africa,4.7
+Cocos Plate,9.7503,-85.3966, Costa Rica, North America,5.7
+Conakry,9.5073,-13.7109, Guinea, Africa,4.8
+Vienna,48.8544,16.3555, Austria, Europe,4.9
+Zagreb,45.05,15.4, Croatia, Europe,5.2
+Ouagadougou,12.3708,-1.519, Burkina Faso, Africa,4.8
+Bamako,12.636,-8.0039, Mali, Africa,4.7
+Lima,-12.05,-77.0392, Peru, South America,5.3
+Freetown,8.4819,-13.2319, Sierra Leone, Africa,4.8
+Rome,41.899,12.4957, Italy, Europe,4.2
+Monrovia,6.3078,-10.803, Liberia, Africa,4.7
+Nairobi,-1.284,36.819, Kenya, Africa,4.8
+McMurdo Station,-77.8481,166.6895, Antarctica, Antarctica,5.8
+Port Moresby,-9.4438,147.1803, Papua New Guinea, Oceania,4.2
+Cocos Plate,9.7465,-85.395, Costa Rica, North America,4.8
+Abidjan,5.3577,-4.0077, Côte d'Ivoire, Africa,4.9
+Dushanbe,38.5,69.25, Tajikistan, Asia,5.1
+Bucharest,44.4268,26.1025, Romania, Europe,5.1
+Dakar,14.6952,-17.4422, Senegal, Africa,5.2
+Pointe-à-Pitre,16.2322,-61.5368, Guadeloupe, North America,4.7
+San Salvador,13.6929,-89.2182, El Salvador, North America,4.8
+Aegean Sea,37.9852,23.7309, Greece, Europe,5.5
+Palmer Station,-64.7746,-64.0492, Antarctica, Antarctica,5.2
+Podgorica,42.4459,19.2653, Montenegro, Europe,5.2
+Khartoum,15.5,33.0, Sudan, Africa,5.8
+Belgrade,44.7881,20.4523, Serbia, Europe,5.2
+Mariana Trench,11.3924,142.7117, Mariana Islands, Oceania,4.8
+Banjul,13.453,-16.5893, Gambia, Africa,5.7
+Quito,-0.2271,-78.5261, Ecuador, South America,4.7
+Suva,-18.1225,178.449, Fiji, Oceania,4.7
+Paramaribo,5.8497,-55.2024, Suriname, South America,4.8
+Ouagadougou,12.3704,-1.5186, Burkina Faso, Africa,4.8
+Kralendijk,12.1509,-68.4234, Bonaire, North America,5.7
+Orcadas Base,-60.7326,-44.7332, Antarctica, Antarctica,4.7
+Baku,40.4071,49.866, Azerbaijan, Europe,4.8
+Georgetown,6.8079,-58.1516, Guyana, South America,5.3
+Freetown,8.4845,-13.2336, Sierra Leone, Africa,4.8
+Dakar,14.6894,-17.4475, Senegal, Africa,4.7
+Nouakchott,18.0757,-15.9638, Mauritania, Africa,5.3
+Nuku'alofa,-21.1375,-175.2075, Tonga, Oceania,5.7
+Basseterre,17.2957,-62.7339, Saint Kitts and Nevis, North America,4.9
+Bamako,12.6368,-8.0047, Mali, Africa,4.7
+Suva,-18.1262,178.4535, Fiji, Oceania,5.2
+Yellowstone National Park,44.4311,-110.5848, United States, North America,5.3
+Belgrano II Base,-77.8663,-34.6154, Antarctica, Antarctica,4.7
+Abidjan,5.3607,-4.0114, Côte d'Ivoire, Africa,5.8
+Lhasa,29.6488,91.1769, Tibet, Asia,4.6
+Panama City,8.9856,-79.5162, Panama, North America,5.3
+Pointe-à-Pitre,16.236,-61.5384, Guadeloupe, North America,5.7
+Niamey,13.5127,2.1128, Niger, Africa,4.8
+Suva,-18.1223,178.452, Fiji, Oceania,4.6
+Road Town,18.4204,-64.5638, British Virgin Islands, North America,5.7
+Monrovia,6.3074,-10.8026, Liberia, Africa,4.7
+Philipsburg,18.0227,-63.0494, Sint Maarten, North America,4.7
+Kamchatka Peninsula,56.132,160.6442, Russia, Asia,4.6
+Paramaribo,5.8519,-55.2035, Suriname, South America,4.8
+Hilo,19.7051,-155.0882, United States, North America,4.6
+Cairo,30.0362,31.2298, Egypt, Africa,5.3
+Road Town,18.419,-64.5604, British Virgin Islands, North America,4.8
+Hargeisa,9.4714,44.079, Somalia, Africa,4.7
+Mogadishu,2.0349,45.3424, Somalia, Africa,4.8
+Abidjan,5.3611,-4.012, Côte d'Ivoire, Africa,5.8
+Christchurch,-43.5306,172.6396, New Zealand, Oceania,5.0
+Victoria,-4.6167,55.4536, Seychelles, Africa,4.7
+Nouakchott,18.0729,-15.9679, Mauritania, Africa,4.9
+Freetown,8.4859,-13.2369, Sierra Leone, Africa,5.6
+Saint Peter Port,49.4631,-2.5316, Guernsey, Europe,5.3
+Sarajevo,43.8563,18.4131, Bosnia and Herzegovina, Europe,5.1
+Bogota,4.7087,-74.0743, Colombia, South America,5.2
+Tokyo,35.6882,139.6903, Japan, Asia,6.1
+Kingston,17.9689,-76.7944, Jamaica, North America,4.7
+Montevideo,-34.9025,-56.1906, Uruguay, South America,5.7
+Kathmandu,27.7196,85.3217, Nepal, Asia,5.0
+Tripoli,32.8904,13.1876, Libya, Africa,5.1
+Nouakchott,18.0741,-15.9711, Mauritania, Africa,5.8
+South Anatolian Fault Zone,36.206,32.3213, Turkey, Europe,5.3
+Conakry,9.5067,-13.7102, Guinea, Africa,4.8
+Fort-de-France,14.6096,-61.0555, Martinique, North America,4.8
+Ouagadougou,12.3692,-1.5186, Burkina Faso, Africa,4.8
+Abidjan,5.3573,-4.0104, Côte d'Ivoire, Africa,4.8
+Grytviken,-54.2831,-36.5123, South Georgia and the South Sandwich Islands, South America,5.7
+Kigali,-1.9512,30.0606, Rwanda, Africa,4.7
+Moroni,-11.7186,43.2509, Comoros, Africa,5.8
+Nouakchott,18.0765,-15.9646, Mauritania, Africa,5.3
+Lilongwe,-13.9664,33.7704, Malawi, Africa,5.0
+Kabul,34.5529,69.2094, Afghanistan, Asia,4.7
+Honiara,-9.4315,160.0448, Solomon Islands, Oceania,4.2
+Monrovia,6.3098,-10.8008, Liberia, Africa,4.8
+Montevideo,-34.8987,-56.189, Uruguay, South America,4.8
+McMurdo Station,-77.8445,166.685, Antarctica, Antarctica,4.9
+Gustavia,17.8941,-62.8516, Saint Barthelemy, North America,4.8
+Kathmandu,27.7172,85.324, Nepal, Asia,5.3
+Bamako,12.6386,-8.0023, Mali, Africa,4.8
+Port Lockroy,-64.8269,-63.5107, Antarctica, Antarctica,5.7
+The Bottom,17.6331,-63.2367, Saba, North America,4.7
+Niamey,13.5159,2.1091, Niger, Africa,5.3
+Port Louis,-20.1686,57.4859, Mauritius, Africa,5.2
+Nouakchott,18.0701,-15.9693, Mauritania, Africa,4.8
+Yangon,16.8639,96.194, Myanmar, Asia,5.1
+Yellowstone National Park,44.4279,-110.5885, United States, North America,4.7
+Monrovia,6.3084,-10.8004, Liberia, Africa,4.8
+Saint John's,17.1207,-61.8419, Antigua and Barbuda, North America,5.2
+Honshu,35.6871,139.6935, Japan, Asia,4.8
+Abidjan,5.3573,-4.0072, Côte d'Ivoire, Africa,4.9
+Nouakchott,18.0739,-15.9709, Mauritania, Africa,5.8
+Harare,-17.8292,31.0522, Zimbabwe, Africa,4.8
+San Francisco,37.7768,-122.4163, USA, North America,4.4
+Stanley,-51.6976,-57.8518, Falkland Islands, South America,4.7
+Tehran,35.6895,51.3889, Iran, Asia,5.2
+Mogadishu,2.0347,45.3453, Somalia, Africa,4.7
+Niamey,13.5102,2.1113, Niger, Africa,4.8
+Yerevan,40.1872,44.5152, Armenia, Europe,4.7
+Bamako,12.637,-8.0018, Mali, Africa,4.8
+Niamey,13.509,2.1133, Niger, Africa,4.7
+East African Rift,-1.2899,36.8208, Kenya, Africa,4.9
+Banjul,13.4526,-16.5869, Gambia, Africa,4.8
+Hargeisa,9.4716,44.0761, Somalia, Africa,4.8
+Bissau,11.865,-15.5854, Guinea-Bissau, Africa,5.7
+Petropavlovsk-Kamchatsky,53.02,158.6489, Russia, Asia,4.8
+Signy Research Station,-60.6342,-45.5864, Antarctica, Antarctica,5.3
+Niamey,13.5088,2.1131, Niger, Africa,4.7
+Monrovia,6.308,-10.8001, Liberia, Africa,4.8
+Tehran,35.6877,51.3892, Iran, Asia,4.4
+Sofia,42.6977,23.3219, Bulgaria, Europe,4.5
+Marrakech,31.6295,-7.9811, Morocco, Africa,4.4
+Juba,4.8594,31.5713, South Sudan, Africa,4.7
+Niamey,13.5148,2.108, Niger, Africa,5.3
+Ouagadougou,12.3706,-1.5188, Burkina Faso, Africa,4.8
+Bissau,11.8606,-15.5844, Guinea-Bissau, Africa,4.7
+Fort-de-France,14.6094,-61.0584, Martinique, North America,4.7
+Abidjan,5.3619,-4.0034, Côte d'Ivoire, Africa,5.3
+Mariana Trench,11.3922,142.7146, Mariana Islands, Oceania,4.7
+Dushanbe,38.45,68.75, Tajikistan, Asia,4.5
+Paramaribo,5.8551,-55.1998, Suriname, South America,5.3
+Niamey,13.5136,2.1157, Niger, Africa,5.7
+Gustavia,17.8943,-62.8487, Saint Barthelemy, North America,4.9
+Nouakchott,18.0769,-15.965, Mauritania, Africa,5.3
+Monrovia,6.3082,-10.8003, Liberia, Africa,4.8
+Dar es Salaam,-6.7902,39.2072, Tanzania, Africa,4.5
+Port of Spain,10.6559,-61.5146, Trinidad and Tobago, North America,4.8
+Abidjan,5.3621,-4.0037, Côte d'Ivoire, Africa,5.3
+King Edward Point,-54.2833,-36.5, South Georgia and the South Sandwich Islands, South America,4.7
+Yamoussoukro,6.8178,-5.2747, Côte d'Ivoire, Africa,4.8
+Dakar,14.69,-17.4481, Senegal, Africa,4.7
+Asuncion,-23.4401,-58.4456, Paraguay, South America,4.7
+Bamako,12.6378,-8.0015, Mali, Africa,4.8
+Rothera Research Station,-67.5622,-68.1223, Antarctica, Antarctica,4.7
+Basseterre,17.2935,-62.7328, Saint Kitts and Nevis, North America,4.9
+San Francisco,37.7724,-122.4211, USA, North America,4.2
+Nuku'alofa,-21.1339,-175.203, Tonga, Oceania,4.9
+Harare,-17.827,31.0511, Zimbabwe, Africa,4.9
+Tunis,36.8065,10.1704, Tunisia, Africa,4.8
+Dakar,14.6898,-17.4479, Senegal, Africa,4.7
+Bissau,11.8612,-15.5811, Guinea-Bissau, Africa,4.8
+Banjul,13.4524,-16.5867, Gambia, Africa,4.8
+Monrovia,6.3108,-10.8038, Liberia, Africa,5.7
+Tirana,41.3275,19.8187, Albania, Europe,4.8
+Suva,-18.1248,178.4501, Fiji, Oceania,4.9
+Freetown,8.4833,-13.2322, Sierra Leone, Africa,4.8
+Freetown,8.4873,-13.2293, Sierra Leone, Africa,5.3
+Bridgetown,13.1146,-59.6022, Barbados, North America,5.7
+Skopje,41.9973,21.427, North Macedonia, Europe,4.2
+Kigali,-1.955,30.0622, Rwanda, Africa,5.5
+Kamchatka Trench,53.0,162.0, Russia, Asia,5.6
+Victoria,-4.6223,55.4481, Seychelles, Africa,5.0
+Nouakchott,18.0743,-15.9713, Mauritania, Africa,5.8
+Tehran,35.6869,51.3913, Iran, Asia,4.7
+Belgrano II Base,-77.8639,-34.6172, Antarctica, Antarctica,4.7
+Niamey,13.5116,2.1117, Niger, Africa,4.8
+Bissau,11.8644,-15.586, Guinea-Bissau, Africa,5.7
+Astana,51.1672,71.448, Kazakhstan, Asia,4.9
+San Jose,37.7727,-122.4183, United States, North America,4.8
+Christchurch,-43.532,172.6362, New Zealand, Oceania,4.4
+Okhotsk Plate,56.8421,143.56, Russia, Asia,5.7
+Bishkek,42.9166,74.6, Kyrgyzstan, Asia,4.5
+Banjul,13.4552,-16.5826, Gambia, Africa,5.3
+Thessaloniki,40.6415,22.9469, Greece, Europe,4.7
+San Francisco,37.7732,-122.4176, USA, North America,5.7
+Baku,40.4107,49.8705, Azerbaijan, Europe,5.7
+Christchurch,-43.5362,172.6442, New Zealand, Oceania,4.2
+Tirana,41.3289,19.8221, Albania, Europe,5.3
+Paramaribo,5.8534,-55.2072, Suriname, South America,5.7
+Astana,51.1694,71.4491, Kazakhstan, Asia,4.9
+Road Town,18.4222,-64.5567, British Virgin Islands, North America,5.3
+Dakar,14.6936,-17.4495, Senegal, Africa,5.6
+Bamako,12.6424,-7.9992, Mali, Africa,5.3
+Niamey,13.509,2.1102, Niger, Africa,4.8
+Philippine Sea Plate,13.4667,122.6, Philippines, Asia,4.8
+Ouagadougou,12.3686,-1.521, Burkina Faso, Africa,4.7
+Yamoussoukro,6.8196,-5.2754, Côte d'Ivoire, Africa,4.7
+Nairobi,-1.2896,36.8135, Kenya, Africa,5.3
+Bamako,12.6382,-8.0019, Mali, Africa,4.8
+The Bottom,17.6333,-63.2338, Saba, North America,4.8
+Abidjan,5.3587,-4.0071, Côte d'Ivoire, Africa,4.9
+Bucharest,44.4268,26.1025, Romania, Europe,5.0
+Mexico City,19.43,-99.1358, Mexico, North America,5.1
+North Anatolian Fault Zone,40.9897,34.9857, Turkey, Europe,4.8
+Bissau,11.86,-15.585, Guinea-Bissau, Africa,4.7
+Bucharest,44.4282,26.0974, Romania, Europe,5.2
+Tehran,35.6923,51.3856, Iran, Asia,5.0
+Esperanza Base,-63.3905,-56.9985, Antarctica, Antarctica,4.7
+Puget Sound,47.7487,-122.3642, United States, North America,4.8
+Niamey,13.5118,2.1119, Niger, Africa,4.8
+Monrovia,6.3126,-10.7967, Liberia, Africa,5.2
+King Edward Point,-54.2811,-36.4989, South Georgia and the South Sandwich Islands, South America,4.8
+Paramaribo,5.8495,-55.2053, Suriname, South America,4.7
+Nouakchott,18.0705,-15.9697, Mauritania, Africa,4.8
+Banjul,13.4518,-16.5861, Gambia, Africa,4.8
+Bamako,12.6394,-8.0051, Mali, Africa,5.7
+Kralendijk,12.1495,-68.42, Bonaire, North America,4.8
+Tashkent,41.3114,69.2797, Uzbekistan, Asia,4.9
+Ouagadougou,12.3724,-1.5226, Burkina Faso, Africa,5.7
+Mogadishu,2.0385,45.3469, Somalia, Africa,5.7
+Yamoussoukro,6.8232,-5.2721, Côte d'Ivoire, Africa,5.2
+Freetown,8.4823,-13.2324, Sierra Leone, Africa,4.8
+Nouakchott,18.0767,-15.9648, Mauritania, Africa,5.3
+Dushanbe,38.5,68.75, Tajikistan, Asia,4.9
+Dakar,14.6918,-17.4457, Senegal, Africa,4.7
+Yerevan,40.1848,44.517, Armenia, Europe,4.7
+Monrovia,6.31,-10.801, Liberia, Africa,4.8
+Bogota,4.7142,-74.0718, Colombia, South America,4.9
+Managua,12.1163,-86.2396, Nicaragua, North America,5.6
+Freetown,8.4869,-13.2289, Sierra Leone, Africa,5.3
+Kathmandu,27.7144,85.326, Nepal, Asia,4.5
+Dushanbe,38.55,69.25, Tajikistan, Asia,5.5
+Sakhalin,46.9617,142.731, Russia, Asia,5.2
+Ljubljana,46.0548,14.5047, Slovenia, Europe,4.7
+Ouagadougou,12.3716,-1.5218, Burkina Faso, Africa,5.7
+Jakarta,-6.2125,106.8462, Indonesia, Asia,5.2
+Yamoussoukro,6.8178,-5.2778, Côte d'Ivoire, Africa,4.7
+East Pacific Rise,-3.9635,-103.3513, Peru, South America,4.8
+Algiers,36.756,3.0385, Algeria, Africa,5.3
+Ouagadougou,12.3726,-1.5228, Burkina Faso, Africa,5.7
+Bissau,11.8628,-15.5828, Guinea-Bissau, Africa,4.8
+Monrovia,6.3106,-10.8016, Liberia, Africa,4.8
+Yamoussoukro,6.8172,-5.2772, Côte d'Ivoire, Africa,4.7
+Santo Domingo,18.4893,-69.9275, Dominican Republic, North America,5.3
+Victoria,-4.6191,55.4518, Seychelles, Africa,4.2
+Freetown,8.4835,-13.2324, Sierra Leone, Africa,4.8
+Tripoli,32.885,13.1902, Libya, Africa,4.6
+Dushanbe,38.55,68.75, Tajikistan, Asia,4.2
+Yellowstone National Park,44.4257,-110.5874, United States, North America,4.8
+Port of Spain,10.6557,-61.5144, Trinidad and Tobago, North America,4.9
+Yamoussoukro,6.8226,-5.2715, Côte d'Ivoire, Africa,5.2
+Yamoussoukro,6.821,-5.2788, Côte d'Ivoire, Africa,5.6
+Georgetown,6.8013,-58.1551, Guyana, South America,4.9
+Bissau,11.8666,-15.5785, Guinea-Bissau, Africa,5.2
+Mariana Trench,11.3978,142.7091, Mariana Islands, Oceania,5.2
+Ouagadougou,12.368,-1.5204, Burkina Faso, Africa,4.7
+Kabul,34.5567,69.2109, Afghanistan, Asia,5.7
+Sakhalin,46.9563,142.7336, Russia, Asia,4.8
+Yamoussoukro,6.818,-5.2779, Côte d'Ivoire, Africa,4.7
+Abidjan,5.3603,-4.0108, Côte d'Ivoire, Africa,5.8
+Road Town,18.4166,-64.5622, British Virgin Islands, North America,4.7
+San Andreas Fault,36.7815,-119.4142, United States, North America,5.3
+Podgorica,42.4441,19.2724, Montenegro, Europe,5.6
+Bridgetown,13.1164,-59.5951, Barbados, North America,5.2
+Yangon,16.8693,96.1915, Myanmar, Asia,4.6
+Orcadas Base,-60.734,-44.7366, Antarctica, Antarctica,5.6
+Banjul,13.4538,-16.5901, Gambia, Africa,5.7
+Sarajevo,43.8541,18.412, Bosnia and Herzegovina, Europe,5.4
+Monrovia,6.3138,-10.7978, Liberia, Africa,5.2
+Addis Ababa,9.1426,40.4915, Ethiopia, Africa,4.7
+Kampala,0.3168,32.5774, Uganda, Africa,5.1
+Bamako,12.6358,-7.0006, Mali, Africa,4.8
+Sakhalin,46.9585,142.7347, Russia, Asia,4.7
+Honiara,-9.4317,160.0418, Solomon Islands, Oceania,5.3
+Zagreb,45.05,15.2, Croatia, Europe,4.9
+Ouagadougou,12.3714,-1.5197, Burkina Faso, Africa,4.8
+Marrakech,31.6309,-7.9845, Morocco, Africa,5.0
+Niamey,13.5128,2.1149, Niger, Africa,5.7
+Abidjan,5.3565,-4.0092, Côte d'Ivoire, Africa,4.8
+Kyushu,33.588,130.4035, Japan, Asia,4.7
+Nouakchott,18.0713,-15.9705, Mauritania, Africa,4.8
+Vienna,48.8542,16.3585, Austria, Europe,4.6
+Port of Spain,10.6571,-61.5178, Trinidad and Tobago, North America,5.8
+Tokyo,35.6942,139.693, Japan, Asia,4.5
+Vanuatu,-15.3745,166.9581, Vanuatu, Oceania,4.8
+McMurdo Station,-77.8499,166.6824, Antarctica, Antarctica,5.3
+Bamako,12.641,-7.9968, Mali, Africa,5.3
+Yamoussoukro,6.8218,-5.2796, Côte d'Ivoire, Africa,5.6
+Ouagadougou,12.3682,-1.5175, Burkina Faso, Africa,4.8
+South Anatolian Fault Zone,36.2042,32.3284, Turkey, Europe,5.7
+Gustavia,17.8997,-62.8461, Saint Barthelemy, North America,5.3
+Bissau,11.8602,-15.5821, Guinea-Bissau, Africa,4.8
+Lusaka,-15.3853,28.3217, Zambia, Africa,4.9
+Basseterre,17.2997,-62.7267, Saint Kitts and Nevis, North America,5.3
+Vernadsky Research Base,-65.2432,-64.2649, Antarctica, Antarctica,4.7
+Nouakchott,18.0711,-15.9672, Mauritania, Africa,4.9
+Port of Spain,10.6537,-61.5135, Trinidad and Tobago, North America,4.8
+Georgetown,6.8025,-58.1542, Guyana, South America,4.8
+Conakry,9.5115,-13.7069, Guinea, Africa,5.3
+Bissau,11.8626,-15.583, Guinea-Bissau, Africa,4.8
+The Bottom,17.6355,-63.2349, Saba, North America,4.7
+Basseterre,17.2965,-62.7304, Saint Kitts and Nevis, North America,4.9
+Yamoussoukro,6.818,-5.2749, Côte d'Ivoire, Africa,4.8
+Quito,-0.2309,-78.5277, Ecuador, South America,5.6
+Stanley,-51.7014,-57.8534, Falkland Islands, South America,5.7
+San Juan,18.4633,-66.1046, Puerto Rico, North America,4.8
+Bissau,11.8604,-15.5846, Guinea-Bissau, Africa,4.7
+Ulaanbaatar,47.919,106.885, Mongolia, Asia,4.7
+Freetown,8.4815,-13.2345, Sierra Leone, Africa,4.7
+Kuril Islands,45.5549,148.8844, Russia, Asia,4.7
+Esperanza Base,-63.3961,-56.993, Antarctica, Antarctica,5.3
+Bissau,11.8658,-15.5793, Guinea-Bissau, Africa,5.2
+Philippine Sea Plate,13.4643,122.6018, Philippines, Asia,4.7
+Quito,-0.2295,-78.5243, Ecuador, South America,4.2
+Niamey,13.512,2.1121, Niger, Africa,4.8
+La Paz,-16.5032,-68.1463, Bolivia, South America,5.3
+Belgrano II Base,-77.8641,-34.6143, Antarctica, Antarctica,4.8
+Banjul,13.456,-16.5837, Gambia, Africa,5.3
+Yamoussoukro,6.822,-5.2797, Côte d'Ivoire, Africa,5.6
+Dakar,14.6954,-17.4424, Senegal, Africa,5.2
+Ljubljana,46.0584,14.5092, Slovenia, Europe,5.6
+Shikoku,33.7468,133.7299, Japan, Asia,4.8
+Basseterre,17.2933,-62.7357, Saint Kitts and Nevis, North America,4.8
+Conakry,9.5095,-13.712, Guinea, Africa,4.8
+Honshu,35.6873,139.6906, Japan, Asia,4.9
+Saint Helier,49.1933,-2.1105, Jersey, Europe,5.6
+Dakar,14.695,-17.442, Senegal, Africa,5.2
+Bamako,12.6416,-7.9984, Mali, Africa,5.3
+Port of Spain,10.6535,-61.5133, Trinidad and Tobago, North America,4.9
+Port-au-Prince,18.5388,-72.3349, Haiti, North America,4.8
+Niamey,13.5122,2.1123, Niger, Africa,4.8
+Port Lockroy,-64.8255,-63.5073, Antarctica, Antarctica,4.8
+Stanley,-51.7032,-57.8463, Falkland Islands, South America,5.3
+Quito,-0.2328,-78.5207, Ecuador, South America,5.1
+Kralendijk,12.1471,-68.4218, Bonaire, North America,4.7
+East African Rift,-1.2935,36.8253, Kenya, Africa,5.7
+Tbilisi,41.7129,44.826, Georgia, Europe,4.9
+Yamoussoukro,6.8214,-5.2792, Côte d'Ivoire, Africa,5.6
+Freetown,8.4853,-13.2362, Sierra Leone, Africa,5.6
+Bissau,11.861,-15.584, Guinea-Bissau, Africa,4.7
+Saint Pierre,46.7773,-56.179, Saint Pierre and Miquelon, North America,4.7
+Zagreb,45.1,15.2, Croatia, Europe,4.6
+Apia,-13.8464,-171.7503, Samoa, Oceania,4.3
+Conakry,9.5103,-13.7147, Guinea, Africa,5.7
+Manila,13.4124,122.5622, Philippines, Asia,4.6
+Ouagadougou,12.3686,-1.5179, Burkina Faso, Africa,4.8
+Sofia,42.6977,23.3219, Bulgaria, Europe,4.6
+Kingston,18.0211,-76.8061, Jamaica, North America,5.3
+Dar es Salaam,-6.7956,39.2046, Tanzania, Africa,5.0
+Northern Chile,-23.4457,-68.4456, Chile, South America,5.1
+Shikoku,33.7504,133.7345, Japan, Asia,5.6
+Tegucigalpa,14.07,-87.191, Honduras, North America,4.8
+Banjul,13.4496,-16.585, Gambia, Africa,4.8
+Bamako,12.6396,-8.0053, Mali, Africa,5.7
+Basseterre,17.2943,-62.7293, Saint Kitts and Nevis, North America,4.9
+Nouakchott,18.0705,-15.9666, Mauritania, Africa,4.9
+Ulaanbaatar,47.9214,106.8832, Mongolia, Asia,4.8
+Islamabad,33.6812,73.0425, Pakistan, Asia,4.5
+Los Angeles,34.0497,-118.2384, USA, North America,4.6
+Monrovia,6.3096,-10.8006, Liberia, Africa,4.8
+Monrovia,6.3076,-10.8028, Liberia, Africa,4.7
+Tonga Trench,-23.1178,-172.0789, Tonga, Oceania,4.8
+Kingston,18.0155,-76.8116, Jamaica, North America,4.8
+Podgorica,42.4405,19.2679, Montenegro, Europe,4.9
+Faraday Station,-65.2621,-63.4978, Antarctica, Antarctica,5.3
+Vienna,48.858,16.36, Austria, Europe,5.5
+Basseterre,17.2971,-62.7373, Saint Kitts and Nevis, North America,5.8
+Ouagadougou,12.372,-1.5222, Burkina Faso, Africa,5.7
+Freetown,8.4877,-13.2298, Sierra Leone, Africa,5.3
+Antananarivo,-18.877,47.5068, Madagascar, Africa,4.2
+Davis Station,-68.7749,78.1085, Antarctica, Antarctica,4.7
+Kinshasa,-4.4419,15.2663, Democratic Republic of the Congo, Africa,4.7
+Ouagadougou,12.3722,-1.5224, Burkina Faso, Africa,5.7
+Cascadia Subduction Zone,49.2827,-125.0095, Canada, North America,4.8
+Hargeisa,9.4738,44.0772, Somalia, Africa,4.8
+Cairo,30.0306,31.2353, Egypt, Africa,4.5
+Freetown,8.4841,-13.2331, Sierra Leone, Africa,4.8
+Zagreb,45.1,15.4, Croatia, Europe,5.7
+Tashkent,41.3128,69.2831, Uzbekistan, Asia,5.1
+Port Lockroy,-64.8231,-63.5091, Antarctica, Antarctica,4.7
+Sakhalin,46.9599,142.7381, Russia, Asia,5.6
+Palmer Station,-64.7692,-64.0518, Antarctica, Antarctica,4.8
+Abidjan,5.3567,-4.0095, Côte d'Ivoire, Africa,4.8
+Asuncion,-23.4425,-58.4438, Paraguay, South America,4.7
+Niamey,13.5134,2.1155, Niger, Africa,5.7
+Bamako,12.6384,-8.0021, Mali, Africa,4.8
+Banjul,13.4496,-16.5881, Gambia, Africa,4.7
+Ljubljana,46.0569,14.5058, Slovenia, Europe,4.3
+Istanbul,41.0094,28.9752, Turkey, Europe,4.6
+Saint Pierre,46.7797,-56.1772, Saint Pierre and Miquelon, North America,4.8
+Yerevan,40.1904,44.5115, Armenia, Europe,5.2
+Abidjan,5.3601,-4.0105, Côte d'Ivoire, Africa,5.8
+Lima,-12.0481,-77.0404, Peru, South America,5.6
+Ouagadougou,12.369,-1.5183, Burkina Faso, Africa,4.8
+La Paz,-16.4976,-68.1518, Bolivia, South America,4.7
+Saint Pierre,46.7811,-56.1806, Saint Pierre and Miquelon, North America,5.7
+Lisbon,38.7237,-9.1427, Portugal, Europe,5.3
+Los Angeles,34.0535,-118.2402, USA, North America,5.2
+Lusaka,-15.3875,28.3228, Zambia, Africa,4.7
+Panama City,8.9824,-79.5199, Panama, North America,4.7
+Hokkaido,43.2181,142.8613, Japan, Asia,4.9
+Ashgabat,37.9852,58.3367, Turkmenistan, Asia,5.3
+Niamey,13.5125,2.1126, Niger, Africa,4.8
+Santiago,-33.4489,-70.6693, Chile, South America,5.6
+Basseterre,17.2979,-62.7338, Saint Kitts and Nevis, North America,5.8
+Nouakchott,18.0703,-15.9695, Mauritania, Africa,4.8
+Niamey,13.5141,2.1162, Niger, Africa,5.7
+La Paz,-16.4978,-68.1489, Bolivia, South America,4.8
+Conakry,9.5061,-13.7096, Guinea, Africa,4.8
+King Edward Point,-54.2847,-36.5034, South Georgia and the South Sandwich Islands, South America,5.6
+Ouagadougou,12.3688,-1.5181, Burkina Faso, Africa,4.8
+Podgorica,42.4403,19.2708, Montenegro, Europe,4.5
+Dakar,14.6924,-17.4463, Senegal, Africa,4.7
+McMurdo Station,-77.8443,166.6879, Antarctica, Antarctica,4.8
+Baku,40.4093,49.8671, Azerbaijan, Europe,4.8
+Niamey,13.5096,2.1108, Niger, Africa,4.8
+Yellowstone National Park,44.4255,-110.5903, United States, North America,4.7
+Dakar,14.6942,-17.4501, Senegal, Africa,5.6
+Esperanza Base,-63.3907,-56.9956, Antarctica, Antarctica,4.8
+Algiers,36.7506,3.0411, Algeria, Africa,4.9
+Santiago,-33.4472,-70.6659, Chile, South America,4.1
+Cascadia Subduction Zone,49.2803,-125.0113, Canada, North America,4.8
+Monrovia,6.3072,-10.8024, Liberia, Africa,4.7
+Addis Ababa,9.1464,40.4931, Ethiopia, Africa,5.5
+Ouagadougou,12.371,-1.5192, Burkina Faso, Africa,4.8
+Dakar,14.6916,-17.4455, Senegal, Africa,4.7
+Hokkaido,43.2203,142.8624, Japan, Asia,4.8
+Gustavia,17.8962,-62.8506, Saint Barthelemy, North America,4.9
+Moroni,-11.7204,43.2438, Comoros, Africa,5.3
+Saint Helier,49.1895,-2.1089, Jersey, Europe,4.7
+Apia,-13.8488,-171.7484, Samoa, Oceania,4.5
+Conakry,9.5109,-13.7154, Guinea, Africa,5.7
+Monrovia,6.313,-10.7971, Liberia, Africa,5.2
+Port Moresby,-9.4414,147.1782, Papua New Guinea, Oceania,4.8
+Cape Town,-33.918,18.4233, South Africa, Africa,4.9
+Freetown,8.4865,-13.2285, Sierra Leone, Africa,5.3
+Puget Sound,47.7525,-122.3658, United States, North America,5.7
+Honiara,-9.4353,160.0463, Solomon Islands, Oceania,4.5
+Banjul,13.4498,-16.5883, Gambia, Africa,4.7
+Dakar,14.692,-17.4459, Senegal, Africa,4.7
+Yamoussoukro,6.8198,-5.2756, Côte d'Ivoire, Africa,4.7
+Banjul,13.4528,-16.5874, Gambia, Africa,4.8
+Abidjan,5.3605,-4.0111, Côte d'Ivoire, Africa,5.8
